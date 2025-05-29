@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bharath-723
 - 👀 I’m interested in ...coding to shape my virtual ideas into reality
 - 💞️ I’m looking to collaborate with... a coding enthusiatic partner
-- 📫 How to reach me ...bharathbalu7231@gmail.com
+- 📫 How to reach me: bharathbalu7231@gmail.com
 - 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ...Nothing is to be funny,until you get laugh
   
