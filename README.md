@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate with... a coding enthusiatic partner
 - 📫 How to reach me: bharathbalu7231@gmail.com
 - 😄 Pronouns: ...he/him
-- ⚡ Fun fact: ...Nothing is to be funny,until you get laugh
+- ⚡ Fun fact: ...🤖I once tried to build an AI assistant...now it bosses me around.
   
  ## 🛠️ Tech Stack
 - Frontend: HTML, CSS, JavaScript
