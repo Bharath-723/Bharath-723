@@ -12,7 +12,7 @@
 - Backend:MySQL,SQLite,
 
 ## 📫 Let's Connect
-- [LinkedIn](https://linkedin.com/in/bharath-m-b8a456287/)
+- [LinkedIn](https://linkedin.com/in/bharath-m723/)
 <!---
 Bharath-723/Bharath-723 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
